@@ -4,3 +4,7 @@ March 2025
 
 Link to Workshop Material from University of Tenessee:
 https://openscience.gishub.org/
+
+
+Link to additional material:
+https://github.com/opengeos/qgis-basemaps
