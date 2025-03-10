@@ -8,3 +8,5 @@ https://openscience.gishub.org/
 
 Link to additional material:
 https://github.com/opengeos/qgis-basemaps
+
+Will add more materials here soon.
